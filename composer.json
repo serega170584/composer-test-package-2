@@ -1,0 +1,12 @@
+{
+    "name": "serega170584/composer-test-package-2",
+    "description": "composer test package 2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "krivobokov.sv",
+            "email": "krivobokov.sv@academia-moscow.ru"
+        }
+    ],
+    "require": {}
+}
